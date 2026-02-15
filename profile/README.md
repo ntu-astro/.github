@@ -23,7 +23,7 @@ We regularly host astronomy events to share and discuss the wonders of planets, 
 * Intensive telescope observation sessions.
 * Cultural exploration and bonding with fellow astrophiles.
 
-### 4. Collaborations & Outreach
+### 3. Collaborations & Outreach
 We work with other NTU communities to raise awareness about astronomical issues.
 * **Example:** Earth Hour collaboration with EarthLink to educate on light pollution and its environmental impacts.
 
